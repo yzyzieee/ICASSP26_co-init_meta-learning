@@ -1,0 +1,7 @@
+results/*.fig
+results/*.png
+results/*.jpg
+*.asv
+*.autosave
+*.m~
+*.zip

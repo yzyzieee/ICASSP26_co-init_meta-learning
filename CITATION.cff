@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated ICASSP 2026 paper and acknowledge the upstream Meta implementation."
+title: "ICASSP26 Co-Initialization Meta-Learning Code"
+authors:
+  - family-names: "Yang"
+    given-names: "Ziyi"
+    email: "ziyi016@e.ntu.edu.sg"
+date-released: 2026-06-26
+repository-code: "https://github.com/yzyzieee/ICASSP26_co-init_meta-learning"
+preferred-citation:
+  type: conference-paper
+  title: "Co-Initialization of Control Filter and Secondary Path via Meta-Learning for Active Noise Control"
+  authors:
+    - family-names: "Yang"
+      given-names: "Ziyi"
+      email: "ziyi016@e.ntu.edu.sg"
+    - family-names: "Rao"
+      given-names: "Li"
+    - family-names: "Luo"
+      given-names: "Zhengding"
+    - family-names: "Shi"
+      given-names: "Dongyuan"
+    - family-names: "Huang"
+      given-names: "Qirui"
+    - family-names: "Gan"
+      given-names: "Woon-Seng"
+  conference: "2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  collection-title: "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
+  publisher: "IEEE"
+  year: 2026
+  start: 15297
+  end: 15301
+  doi: "10.1109/ICASSP55912.2026.11463219"
+  url: "https://doi.org/10.1109/ICASSP55912.2026.11463219"
+references:
+  - type: software
+    title: "Meta"
+    authors:
+      - family-names: "Shi"
+        given-names: "Dongyuan"
+    url: "https://github.com/ShiDongyuan/Meta"
